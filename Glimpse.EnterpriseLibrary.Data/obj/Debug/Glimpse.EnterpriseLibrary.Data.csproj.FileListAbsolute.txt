@@ -1,0 +1,9 @@
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\obj\Debug\Glimpse.EnterpriseLibrary.Data.csprojResolveAssemblyReference.cache
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\bin\Debug\Glimpse.EnterpriseLibrary.Data.dll
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\bin\Debug\Glimpse.EnterpriseLibrary.Data.pdb
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\obj\Debug\Glimpse.EnterpriseLibrary.Data.dll
+C:\src\Glimpse.EnterpriseLibrary.Data\Glimpse.EnterpriseLibrary.Data\obj\Debug\Glimpse.EnterpriseLibrary.Data.pdb
